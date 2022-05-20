@@ -1,4 +1,5 @@
-# AutonomousPersonCloud
+# Venus
+# Autonomous Person Cloud
 
 "Unequal applications of the law are corrected when law is applied to the correct applications."
 On Venus, our society infrastructure is defined with a treatise for the “10 Foundational Tech Laws & Rights of an Autonomous Person for achieving democratic, self-driving economies and societies”. 
